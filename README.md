@@ -24,7 +24,7 @@ This is a Spotify reactJS web clone, which has an original Spotify login authent
 
 ## Prerequisites
 
-1. Installed NodeJS [Official Website](https://nodejs.org/en/)
+1. Instal NodeJS [Official Website](https://nodejs.org/en/)
 2. Knowledge of ReactJS [Official Website](https://reactjs.org/)
 3. Knowledge of MaterialUI [Official Website](https://material-ui.com/)
 
